@@ -1,1 +1,2 @@
-testtext
+GitHub経由の同期テスト
+VPSまで届くかな？
